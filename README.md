@@ -30,6 +30,6 @@ Some libraries are required to run the code correctly:
 
 ## References
 Fundamental notions used in the algorithms can be found in:
-[Guardiola1998_Chapter_MonteCarloMethodsInQuantumMany_original.pdf](https://github.com/MattiaDamiaPaciarini/Helium-ground-state-energy/files/7231046/Guardiola1998_Chapter_MonteCarloMethodsInQuantumMany_original.pdf).
+[Guardiola1998_Chapter_MonteCarloMethodsInQuantumMany_original.pdf](https://github.com/MattiaDamiaPaciarini/Helium-ground-state-energy/files/7231046/Guardiola1998_Chapter_MonteCarloMethodsInQuantumMany_original.pdf). \\
 The reweighting method can be deepened through:
 M. Hjorth-Jensen, M.P. Lombardo, U. van Kolck; "An Advanced Course in Computational Nuclear Physics";https://www.springer.com/gp/book/9783319533353
