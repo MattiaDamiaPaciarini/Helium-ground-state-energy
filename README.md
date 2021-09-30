@@ -16,12 +16,18 @@ The first 1000 moves of a particle with respect to the center of mass and with t
 
 
 ## Find_Optimal_Pars.py Description
-Find_Optimal_Pars.py is a completion of the previous code. Starting from a set of parameters in a neighbourhood of the optimal one, it computes the average energy and finds the set of parameters which give the ground state energy. In order to optimize the algorithm, the so-called "Reweighting method" is employed: the energy value is evaluated by considering a different weight in front of it. To visualize the energy path followed to reach the minimum, a scatter plot is output.
+Find_Optimal_Pars.py is a completion of the previous code. Starting from a set of parameters in a neighbourhood of the optimal one, it computes the average energy and finds the set of parameters which give the ground state energy. In order to optimize the algorithm, the so-called "Reweighting method" is employed: the energy value is evaluated by considering a different weight in front of it. To visualize the energy path followed to reach the minimum, a scatter plot is output:
+
+<img src="https://user-images.githubusercontent.com/91092038/135468048-c7b54f5d-b74e-4abc-bb09-6474439b8266.png" width="350" height="400">
+Mean energy values for different set of parameters.
+
 ## Python libraries
+
 Some libraries are required to run the code correctly:
 1. numpy
 2. mathplotlib
 3. math
+
 ## References
 Fundamental notions used in the algorithms can be found in:
 [Guardiola1998_Chapter_MonteCarloMethodsInQuantumMany_original.pdf](https://github.com/MattiaDamiaPaciarini/Helium-ground-state-energy/files/7231046/Guardiola1998_Chapter_MonteCarloMethodsInQuantumMany_original.pdf).
