@@ -1,11 +1,6 @@
 import numpy as np
-import pylab as plt
 import math
-import random
 from matplotlib import pyplot as plt
-import array
-import scipy
-from scipy.constants import c
 
 # Definitions of many functions 
 
